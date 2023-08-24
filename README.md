@@ -1,4 +1,4 @@
-# Best Practice Guide for data formats
+# Best Practice Guide for file formats
 
 This repository includes the Best Practice Guide for file formats as well as use cases.
 
