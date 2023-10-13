@@ -1,24 +1,22 @@
-
 ---
 title: Tabellarische Annotationen in der Sprachwissenschaft
-context:
-- Tabelle
-- Tabellenkalkulationsprogramm
-- Geisteswissenschaften
-- Annotation
+subject: Geistes- und Sozialwissenschaften  
+dataformat:
+- Tabellenformat
 ---
 
 ## Name    
 Tabellarische Annotationen in der Sprachwissenschaft
 
 ## Use Case    
-In einer linguistischen Untersuchung werden verschiedene im 19. Jahrhunderts publizierte Texte auf bestimmte sprachliche Merkmale und den Kontext, in dem bestimmte Bezeichnungen verwendet werden, untersucht. Für die Organisation und Auswertung der Daten wurde ein gängiges Tabellenkalkulationsprogramm (Calc, Excel,...) genutzt. Darin wurden die relevanten Textstellen gesammelt, annotiert, klassifiziert und kodiert. Dabei wurden die einzelnen Daten jeweils in eigene Spalten eingetragen, etwa die Referenz zur Quelle, die Textstelle selbst oder die Kodierung. Alle Abkürzungen, Kodes und Klassen werden in einer separaten Dokumentation aufgelistet und beschrieben.
+In einer linguistischen Untersuchung werden verschiedene im 19. Jahrhundert publizierte Texte auf bestimmte sprachliche Merkmale und den Kontext, in dem bestimmte Bezeichnungen verwendet werden, untersucht. Für die Organisation und Auswertung der Daten wurde ein gängiges Tabellenkalkulationsprogramm (Calc, Excel,...) genutzt. Darin wurden die relevanten Textstellen gesammelt, annotiert, klassifiziert und kodiert. Dabei wurden die einzelnen Daten jeweils in eigene Spalten eingetragen, etwa die Referenz zur Quelle, die Textstelle selbst oder die Kodierung. Alle Abkürzungen, Kodes und Klassen werden in einer separaten Dokumentation aufgelistet und beschrieben.
 
 ## Kontext    
-* Tabelle
-* Tabellenkalkulationsprogramm
-* Geisteswissenschaften
-* Annotation
+* Geistes- und Sozialwissenschaften  
+* Geisteswissenschaften  
+* Sprachwissenschaften  
+* Tabellenformat  
+* Annotation  
 
 ## Empfohlenes Vorgehen    
 Da in dieser Tabelle keine besonderen Formatierungen, Formeln zur Berechnung von Feldinhalten oder Makros genutzt wurden, die für eine spätere Verwendung der Daten essentiell sind, wurde empfohlen die Tabelle in das CSV-Format (Comma-Separated Values) zu exportieren. 

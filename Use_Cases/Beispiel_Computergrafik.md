@@ -1,9 +1,8 @@
 ---
 title: Rendering von CGI
-context:
-- Bilddaten
-- Informatik
-- Bildqualität
+subject: Ingenieurwissenschaften
+dataformat:
+- Bildformat
 ---
 
 ## Name  
@@ -14,8 +13,10 @@ Im Bereich der Computergrafik, der Computer Generated Imagery (CGI), wird an der
 Dazu wird ein Modell entwickelt, welches die Limitierungen des menschlichen Auges bei der Erkennung von Unterschieden abbildet. Dieses Modell wird anschließend angewendet, um die Zeit für die Bilderzeugung reduzieren zu können.
 
 ## Kontext  
-* Bilddaten  
-* Informatik  
+* Ingenieurwissenschaften  
+* Informatik, System- und Elektrotechnik  
+* Informatik    
+* Bildformat  
 * Bildqualität  
 
 ## Empfohlenes Vorgehen    

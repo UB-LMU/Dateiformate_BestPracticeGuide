@@ -1,9 +1,8 @@
 ---
 title: Computer-Aided Design (CAD)
-context:
-- 3D-Modelle
-- Bilddaten
-- Ingenieurwissenschaften
+subject: Ingenieurwissenschaften
+dataformat:
+- Bildformat
 ---
 
 ## Name  
@@ -15,9 +14,9 @@ Während der Erstellung von computergestützten Konstruktionen entstehen Daten f
 Mögliche Dateiformate: AutoCAD Drawing (DWG), Drawing Exchange Format (DXF), Standard for the Exchange of Product Data (STEP), Initial Graphics Exchange Specification (IGES), Stereolithography (STL), Wavefront OBJ (OBJ), Rhinoceros 3D Model (3DM), Industry Foundation Classes (IFC), ACIS SAT Model (SAT), PTC Creo Model (PTC Creo), CATIA Model (CATIA), SolidWorks Model (SolidWorks), Pro/ENGINEER Model (Pro/ENGINEER), Siemens PLM Software JT Open (JT), Parasolid Model (Parasolid), Autodesk Revit Model (Revit), Autodesk Inventor Model (Inventor), MicroStation Design File (DGN), Polygon File Format (PLY), Virtual Reality Modeling Language (VRML).
 
 ## Kontext  
+* Ingenieurwissenschaften   
+* Bildformat  
 * 3D-Modelle  
-* Bilddaten  
-* Ingenieurwissenschaften  
 
 ## Empfohlenes Vorgehen  
 Proprietäre Dateiformate sollten in ein offenes nicht-proprietäres Format konvertiert werden.

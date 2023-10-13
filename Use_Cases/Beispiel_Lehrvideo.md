@@ -1,21 +1,21 @@
 ---
-title: AV-Medien
-context:
-- Audio- / Videodaten
-- Lebenswissenschaften
-- Lehrvideos
+title: Lehr- und Lernvideos
+subject: Lebenswissenschaften
+dataformat:
+- Multimediaformat
 ---
 
 ## Name    
-AV-Medien
+Lehr- und Lernvideos
 
 ## Use Case    
 An einem Lehrstuhl für Didaktik einer Hochschule werden Lehrvideos zu verschiedenen Experimenten für eine Nutzung im Schulunterricht produziert. Diese werden im Containerformat QuickTime (.mov) mit dem Videocodec MPEG-2 gespeichert.
 
-## Kontext    
-* Audio- / Videodaten  
-* Lebenswissenschaften
-* Lehrvideos
+## Kontext   
+* Lebenswissenschaften  
+* Didaktik  
+* Multimediaformat  
+* Lehrvideos  
 
 ## Empfohlenes Vorgehen    
 Neben dem Containerformat der Videodateien müssen für eine Langzeitverfügbarkeit auch die enthaltenen Codecs berücksichtigt werden. Generell sollten die Videos dafür einerseits nach Möglichkeit in einem offenen Containerformat gespeichert werden und andererseits sollte, wenn möglich keine verlustbehaftete (lossy) Kompression verwendet werden. Ein mögliches offenes Containerformat, das für die Langzeitverfügbarkeit gut geeignet ist, ist beispielsweise das Matroska-Format (.mkv). In Kombination mit diesem ist der offene und verlustfrei komprimierende Codec FFV1 für Videos gut geeignet, sowie falls benötigt FLAC als verlustfrei komprimierender Codec für Audiodaten.

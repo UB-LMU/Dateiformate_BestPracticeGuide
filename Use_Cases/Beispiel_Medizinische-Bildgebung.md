@@ -1,9 +1,8 @@
 ---
 title: Medizinische Bildgebung
-context:
-- Medizin
-- 3D-Modelle
-- Bilddaten
+subject: Lebenswissenschaften
+dataformat:
+- Bildformat
 ---
 
 ## Name  
@@ -15,9 +14,10 @@ In der Medizin sind bildgebende Verfahren weit verbreitet und spielen eine entsc
 Eingesetzte Techniken: Magnetresonanztomographie (MRT), Computertomographie (CT), Ultraschall, Positronen-Emissions-Tomographie (PET), Röntgen
 
 ## Kontext  
+* Lebenswissenschaften  
 * Medizin  
+* Bildformat   
 * 3D-Modelle  
-* Bilddaten  
 
 ## Empfohlenes Vorgehen  
 Werden bei einem Verfahren Bilddaten produziert, die erst in weiteren Verarbeitungsschritten zu mehrdimensionalen Daten aufbereitet werden, ist es abzuwägen, ob die Rohdaten aufbewahrungswürdig sind oder nicht. Proprietäre Dateiformate sollten in offene nicht-proprietäre Formate konvertiert werden und neben den Ausgangsdaten zusätzlich gespeichert werden.

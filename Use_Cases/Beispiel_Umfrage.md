@@ -1,9 +1,8 @@
 ---
 title: Umfrage zur statistischen Erhebung
-context:
-- Tabelle
-- Sozialwissenschaften
-- Umfrage
+subject: Geistes- und Sozialwissenschaften
+dataformat:
+- Tabellenformat
 ---
 
 
@@ -15,9 +14,10 @@ Umfrage zur statistischen Erhebung
 Im Zuge einer sozialwissenschaftlichen Umfrage wurden auf der Basis eines standardisierten Fragebogens verschiedene Daten zur Lebensqualität einer definierten Alterskohorte in einem geografisch abgegrenztem Gebiet erhoben. Die Ergebnisse dieser Umfragen werden anschließend in einer Tabelle festgehalten.
 
 ## Kontext    
-* Tabelle
-* Sozialwissenschaften
-* Umfrage
+* Geistes- und Sozialwissenschaften  
+* Sozial- und Verhaltenswissenschaften  
+* Tabellenformat  
+* Umfrage  
 
 ## Empfohlenes Vorgehen    
 Die Auswertung der Daten erfolgte hier mit gängigen, kommerziellen Tabellenkalkulationsprogrammen wie Microsoft Excel. Sofern in einer solchen Tabelle keine weitergehenden Informationen wie Formatierungen, mathematische Formeln oder Makros enthalten sind, die für die weitere Verwendung der Daten essentiell sind, wird empfohlen, diese im CSV (Comma-separated values)-Format zu speichern. Der Export ist direkt aus dem Tabellenkalkulationsprogramm möglich. Dabei muss darauf geachtet werden, alle Blätter / Reiter in eigene CSV-Dateien zu exportieren. Eine anschließende Prüfung auf Vollständigkeit wird dringend empfohlen. 

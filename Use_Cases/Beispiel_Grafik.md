@@ -1,10 +1,9 @@
 ---
 title: Interaktive Grafik-Anwendungen
-context:
-- Bilddaten
-- Geisteswissenschaften
-- Demographie
-- Small Web Format (SWF)
+subject: Geistes- und Sozialwissenschaften
+dataformat:
+- Bildformat
+- Multimediaformat
 ---
 
 ## Name    
@@ -14,10 +13,13 @@ Interaktive Grafik-Anwendungen
 Für die Analyse der demographischen Entwicklung einer geographischen Region wurden verschiedene Daten erhoben. Um die kausalen Zusammenhänge der verschiedenen Faktoren und Effekte visuell nachvollziehbar darstellen zu können, wurde eine interaktive Grafik erstellt. Die Speicherung erfolgte im Shockwave Flash-Format (SWF - heute auch Small Web Format), das zum Zeitpunkt der Analyse weit verbreitet und als De-facto-Standard für vektororientierte Grafiken und Animationen auf Webseiten etabliert war. Diese Daten sollen nun zum Zweck der Langzeitverfügbarkeit archiviert werden.
 
 ## Kontext  
-* Bilddaten
-* Geisteswissenschaften
-* Demographie
-* Small Web Format (SWF)
+* Geistes- und Sozialwissenschaften  
+* Geisteswissenschaften  
+* Demographie  
+* Bildformat  
+* Multimediaformat  
+* Small Web Format (SWF)  
+
 
 ## Empfohlenes Vorgehen    
 Das SWF-Format ist trotz seiner großen Verbreitung in der Vergangenheit mittlerweile obsolet geworden. Auch die in der Vergangenheit beliebten Programme zum Abspielen von SWF-Dateien sind nicht mehr ohne weiteres verfügbar.
@@ -32,8 +34,8 @@ Bei den Shockwave Flash-Formaten (.flv, .f4v, .swf) handelt es sich zwar um offe
 
 
 ## Konsequenzen und Kosten   
-Prinzipiell können auch proprietäre Dateiformate langzeitarchiviert, also auch die hier vorliegenden Daten im proprietären Shockwave Flash-Format. Allerdings kann für solche Daten lediglich eine technische Erhaltung (Bitstream Preservation) ermöglicht werden. Eine künftige Nachnutzung ist dann, wie schon zum jetzigem Zeitpunkt, wenn überhaupt, nur mit größerem Aufwand möglich.  
-Wenn die Konvertierung in ein anderes Dateiformat nicht möglich oder zu kostenintensiv ist, besteht prinzipiell die Möglichkeit, die für die Nutzung notwendige Software, in diesem Fall den Flash-Player, ebenfalls zu archivieren. Hierbei müssen jedoch sowohl rechtliche als auch technische Kosten-Nutzen-Aspekte beachtet werden. 
+Prinzipiell können auch proprietäre Dateiformate langzeitarchiviert werden, also auch die hier vorliegenden Daten im proprietären Shockwave Flash-Format. Allerdings kann für solche Daten lediglich eine technische Erhaltung (Bitstream Preservation) ermöglicht werden. Eine künftige Nachnutzung ist dann, wie schon zum jetzigem Zeitpunkt, wenn überhaupt, nur mit größerem Aufwand möglich.  
+Wenn die Konvertierung in ein anderes Dateiformat nicht möglich oder zu kostenintensiv ist, besteht prinzipiell die Möglichkeit, die für die Nutzung notwendige Software, in diesem Fall den Flash-Player, ebenfalls zu archivieren. Hierbei müssen jedoch sowohl rechtliche als auch technische Kosten-Nutzen-Aspekte beachtet werden.  
 Nach einer erfolgreichen Konvertierung sollte außerdem immer überprüft werden, ob alle für das Verständnis oder die Nachnutzung wesentlichen Aspekte korrekt dargestellt werden. Aus Gründen der Nachvollziehbarkeit können bei Bedarf zusätzlich auch die Originaldaten archiviert werden.
 
 ## Weitere Hinweise  

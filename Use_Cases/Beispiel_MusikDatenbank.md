@@ -1,9 +1,8 @@
 ---
 title: Musik-Datenbanken
-context:
-- Datenbank
-- Geisteswissenschaften
-- Faktendatenbank
+subject: Geistes- und Sozialwissenschaften
+dataformat:
+- Datenbankformat
 ---
 
 
@@ -13,10 +12,12 @@ Musik-Datenbanken
 ## Use Case  
 In einem musikwissenschaftlichen Projekt werden Schaffende, deren Lebensdaten, Werke, Aufführungen und weitere Informationen in einer SQL-Datenbank erfasst. Die Datenbank besteht aus mehreren Tabellen.  
 
-## Kontext    
-* Datenbank
-* Geisteswissenschaften
-* Faktendatenbank
+## Kontext 
+* Geistes- und Sozialwissenschaften  
+* Geisteswissenschaften  
+* Kunst-, Musik-, Theater- und Medienwissenschaften  
+* Datenbankformat  
+* Faktendatenbank  
 
 ## Empfohlenes Vorgehen    
 Aus Datenbanken können die darin enthaltenen Informationen sowie die Struktur der Datenbank in Form von sogenannten Datenbankdumps exportiert werden. Dabei wird beispielsweise bei SQL-Datenbanken eine Datei mit einer Liste von SQL-Befehlen erzeugt, die die Datenbank abbilden. Diese Dumps sind reine Text-Dateien und daher sehr gut langfristig digital zu archivieren. Aus dem Dump kann die Datenbank exakt in dem Zustand wiederhergestellt werden, in dem sie sich zum Zeitpunkt des Dumps befand. 

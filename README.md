@@ -11,3 +11,5 @@ Authors:
 - Alexandra Ullrich, Universitätsbibliothek Bayreuth
   
 All contents are under CC BY-SA-4.0 .
+
+Version 1.0., published 2023-10-16

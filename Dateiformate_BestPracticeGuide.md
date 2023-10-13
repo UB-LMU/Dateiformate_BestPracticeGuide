@@ -1,4 +1,4 @@
-﻿# Dateiformate für die Langzeitverfügbarkeit
+# Dateiformate für die Langzeitverfügbarkeit
 
 ## Hintergrund
 
@@ -52,20 +52,21 @@ Der Kontext soll es erleichtern ähnliche Beispiele zur eigenen Situation zu fin
 
 Die Beispiele werden im offen zugänglichen Repositorium GitHub gesammelt, kuratiert und bereitgestellt. Dadurch wird zum einen die freie Verfügbarkeit sichergestellt und zum anderen können somit neue Beispielfälle sowie Verbesserungvorschläge und Korrekturen einfach eingebracht werden. 
 
-[https://github.com/UB-LMU/Dateiformate_BestPracticeGuide]
+[https:/LMU-GITLAB]
 
 
 Ziel ist es, das Portfolio langfristig weiter auszubauen, mit weiteren beispielhaften Anwendungsfällen anzureichern und diese nachhaltig zur Verfügung zu stellen. Um die Sichtbarkeit zu erhöhen und eine bessere Zugänglichkeit zu erreichen, werden die Beispiele zusätzlich auf Zenodo veröffentlicht sowie in die Webseite der LZV-Initiative Bayern eingebunden.
 
-[Link folgt]
 
 
 
 
 ## Allgemeine Empfehlungen
 
+Die Frage der Langzeitverfügbarkeit rückt oft erst beim Abschluss eines Forschungsprojekts in den Fokus. Effizienter ist es jedoch, das Thema bereits frühzeitig bei einzelnen Schritten im Forschungsprozess zu berücksichtigen. Um diese Interventionspunkte und mögliche Fragestellungen nicht zu übersehen, wurde in [„3D Data Creation to Curation: Community Standards for 3D Data Preservation“](https://www.ala.org/acrl/sites/ala.org.acrl/files/content/publications/booksanddigitalresources/digital/9780838939147_3D_OA.pdf) [^4] eine hilfreiche und handliche Grafik entworfen, die in Abb.~\ref{XYZ} leicht angepasst und übersetzt wiedergegeben wird. 
+
 Für einen ersten Überblick zu geeigneten Dateiformaten für die Langzeitverfügbarkeit, kann die ["Interaktive Tafel gängiger Dateiformate"](https://www.lzv.nrw/dateiformate/) der Landesinitiative Langzeitverfügbarkeit lzv.nrw genutzt werden. Anhand der Dateiendung kann schnell überprüft werden, ob das vorliegende Dateiformat für die Langzeitverfügbarkeit geeignet ist.
-Weitergehende, detailliertere Erläuterungen zu den einzelnen Dateiformaten finden sich in zahlreichen Quellen[^4]. Aus diesen wurde eine kurze Übersicht über empfohlene, bedingt geeignete und nicht geeignete Dateiformate zusammengestellt.   
+Weitergehende, detailliertere Erläuterungen zu den einzelnen Dateiformaten finden sich in zahlreichen Quellen[^5]. Aus diesen wurde eine kurze Übersicht über empfohlene, bedingt geeignete und nicht geeignete Dateiformate zusammengestellt.   
 Generell sollte bei der Auswahl von Dateiformaten darauf geachtet werden, dass diese möglichst und je nach Verwendungszweck offen, transparent, weit verbreitet sowie gut dokumentiert sind. 
 
 
@@ -82,9 +83,6 @@ Generell sollte bei der Auswahl von Dateiformaten darauf geachtet werden, dass d
 
 [^1]: Siehe [forschungsdaten.info-Glossar](https://forschungsdaten.info/praxis-kompakt/glossar/#c500908).
 [^2]: Alexander C, Ishikawa S, Silverstein M, et al (1977) A Pattern Language. Oxford University Press, New York. 
-[^3]: Johnson R, Helm R, Gamma E, Vlissides, J (2015). Design Patterns: Entwurfsmuster als Elemente wiederverwendbarer objektorientierter Software. mitp, Heidelberg.
-[^4]: siehe beispielsweise:  
-        [forschungsdaten.info](https://forschungsdaten.info/themen/veroeffentlichen-und-archivieren/formate-erhalten/)  
-        [KOST](https://kost-ceco.ch/cms/kad_main_de.html)  
-        [IANUS](https://ianus-fdz.de/it-empfehlungen/dateiformate/index)  
-
+[^3]: Johnson R, Helm R, Gamma E, Vlissides, J (2015) Design Patterns: Entwurfsmuster als Elemente wiederverwendbarer objektorientierter Software. mitp, Heidelberg.
+[^4]: Golubiewski-Davis K, Maisano J, McIntosh M, et al (2022). Best Practices for 3D Data Preservation. In Moore J, Rountrey A, Kettler H (Hrsg.) 3D Data Creation to Curation: Community Standards for 3D Data Preservation. Association of College and Research Libraries, Chicago.
+[^5]: siehe beispielsweise:  [forschungsdaten.info](https://forschungsdaten.info/themen/veroeffentlichen-und-archivieren/formate-erhalten/) ; [KOST](https://kost-ceco.ch/cms/kad_main_de.html) ; [IANUS](https://ianus-fdz.de/it-empfehlungen/dateiformate/index)  

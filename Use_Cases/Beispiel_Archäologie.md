@@ -1,11 +1,9 @@
 ---
 title: Archäologie
-context:
-- Archäologie
-- Digitalisierung
-- 3D-Modelle
-- Bilddaten
-- Filmdaten
+subject: Geistes- und Sozialwissenschaften
+dataformat:
+- Bildformat
+- Multimediaformat
 ---
 
 ## Name  
@@ -18,14 +16,14 @@ Dabei entstehen oft unterschiedliche Bild-, Film- und 3D-Daten neben vielfältig
 Eingesetzte Techniken und/oder Materialien: Digitalfotografie, Luftaufnahmen, 3D-Scans, Röntgenaufnahmen, Laserscans, Geländemodelle, digitalisierte historische Dokumente, Karten und Grundrisse, 360°-Filme  
 
 ## Kontext
-* Archäologie  
-* Digitalisierung  
-* 3D-Modelle  
-* Bilddaten  
-* Filmdaten  
+* Geistes- und Sozialwissenschaften  
+* Geisteswissenschaften  
+* Alte Kulturen   
+* Bildformat  
+* Multimediaformat  
 
 ## Empfohlenes Vorgehen  
-Proprietären Dateiformate sollten in offene nicht-proprietäre Formate konvertiert werden und neben den Ausgangsdaten zusätzlich gespeichert werden.
+Proprietäre Dateiformate sollten in offene nicht-proprietäre Formate konvertiert werden und neben den Ausgangsdaten zusätzlich gespeichert werden.
 
 ## Grund  
 Die Nachnutzung von Dateiformaten die mit proprietärer Software erstellt wurden, ist nur eingeschränkt möglich.
@@ -38,5 +36,5 @@ Eine Konvertierung in offene Formate ist in vielen Fällen verlustfrei möglich.
 [Archaeology Data Service](https://archaeologydataservice.ac.uk/)  
 [VENUS Preservation Handbook](https://archaeologydataservice.ac.uk/attach/venus/VENUS_Preservation_Handbook.pdf)  
 
-[Expert Group on Digital Cultural Heritage and Europeana "Basic principles and tips for 3D digitisation of cultural heritage"](https://digital-strategy.ec.europa.eu/en/library/basic-principles-and-tips-3d-digitisation-cultural-heritage)
+[Expert Group on Digital Cultural Heritage and Europeana](https://digital-strategy.ec.europa.eu/en/library/basic-principles-and-tips-3d-digitisation-cultural-heritage)
 
