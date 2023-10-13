@@ -50,10 +50,7 @@ Der Kontext soll es erleichtern ähnliche Beispiele zur eigenen Situation zu fin
 ## Beispielsammlung
 
 
-Die Beispiele werden im offen zugänglichen Repositorium GitHub gesammelt, kuratiert und bereitgestellt. Dadurch wird zum einen die freie Verfügbarkeit sichergestellt und zum anderen können somit neue Beispielfälle sowie Verbesserungvorschläge und Korrekturen einfach eingebracht werden. 
-
-[https:/LMU-GITLAB]
-
+Die Beispiele werden im offen zugänglichen Repositorium [[GitHub]](https://github.com/UB-LMU/Dateiformate_BestPracticeGuide/tree/main/Use_Cases) gesammelt, kuratiert und bereitgestellt. Dadurch wird zum einen die freie Verfügbarkeit sichergestellt und zum anderen können somit neue Beispielfälle sowie Verbesserungvorschläge und Korrekturen einfach eingebracht werden. 
 
 Ziel ist es, das Portfolio langfristig weiter auszubauen, mit weiteren beispielhaften Anwendungsfällen anzureichern und diese nachhaltig zur Verfügung zu stellen. Um die Sichtbarkeit zu erhöhen und eine bessere Zugänglichkeit zu erreichen, werden die Beispiele zusätzlich auf Zenodo veröffentlicht sowie in die Webseite der LZV-Initiative Bayern eingebunden.
 
