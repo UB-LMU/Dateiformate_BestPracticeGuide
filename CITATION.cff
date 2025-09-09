@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+title: >-
+  Best Practice Guide for file formats
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: best practice guide
+authors:
+  - given-names: Andreas
+    family-names: Frech
+    orcid: 'https://orcid.org/0000-0002-1458-1163'
+    affiliation: Ludwig-Maximilians-Universität München
+  - given-names: Robert
+    family-names: Günther
+    orcid: 'https://orcid.org/0000-0001-5149-1397'
+    affiliation: University of Bayreuth
+  - given-names: Jürgen
+    family-names: Rohrwild
+    orcid: 'https://orcid.org/0000-0002-1167-0339'
+    affiliation: Friedrich-Alexander-Universität Erlangen-Nürnberg
+  - given-names: Martin
+    family-names: Simon
+    affiliation: University of Regensburg
+  - given-names: Martin
+    family-names: Spenger
+    orcid: 'https://orcid.org/0000-0002-8841-5985'
+    affiliation: Ludwig-Maximilians-Universität München
+  - given-names: Alexandra
+    family-names: Ullrich
+    orcid: 'https://orcid.org/0000-0002-1515-1114'
+    affiliation: University of Bayreuth  
+identifiers:
+  - type: doi
+    value: https://doi.org/10.5281/zenodo.10021390 
+repository-code: >-
+  https://github.com/UB-LMU/Dateiformate_BestPracticeGuide
+abstract: >-
+  This repository includes the Best Practice Guide for file formats as well as use cases.
+keywords:
+  - long-term archiving
+  - file formats
+license: CC-BY-SA 4.0
