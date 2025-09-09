@@ -50,7 +50,10 @@ Der Kontext soll es erleichtern ähnliche Beispiele zur eigenen Situation zu fin
 ## Beispielsammlung
 
 
-Die Beispiele werden im offen zugänglichen Repositorium [[GitHub]](https://github.com/UB-LMU/Dateiformate_BestPracticeGuide/tree/main/Use_Cases) gesammelt, kuratiert und bereitgestellt. Dadurch wird zum einen die freie Verfügbarkeit sichergestellt und zum anderen können somit neue Beispielfälle sowie Verbesserungvorschläge und Korrekturen einfach eingebracht werden. 
+Die Beispiele werden im offen zugänglichen Repositorium GitHub gesammelt, kuratiert und bereitgestellt. Dadurch wird zum einen die freie Verfügbarkeit sichergestellt und zum anderen können somit neue Beispielfälle sowie Verbesserungvorschläge und Korrekturen einfach eingebracht werden. 
+
+Hier ist der Link zum Repositorium auf [GitHub](https://github.com/UB-LMU/Dateiformate_BestPracticeGuide).
+
 
 Ziel ist es, das Portfolio langfristig weiter auszubauen, mit weiteren beispielhaften Anwendungsfällen anzureichern und diese nachhaltig zur Verfügung zu stellen. Um die Sichtbarkeit zu erhöhen und eine bessere Zugänglichkeit zu erreichen, werden die Beispiele zusätzlich auf Zenodo veröffentlicht sowie in die Webseite der LZV-Initiative Bayern eingebunden.
 
@@ -60,7 +63,9 @@ Ziel ist es, das Portfolio langfristig weiter auszubauen, mit weiteren beispielh
 
 ## Allgemeine Empfehlungen
 
-Die Frage der Langzeitverfügbarkeit rückt oft erst beim Abschluss eines Forschungsprojekts in den Fokus. Effizienter ist es jedoch, das Thema bereits frühzeitig bei einzelnen Schritten im Forschungsprozess zu berücksichtigen. Um diese Interventionspunkte und mögliche Fragestellungen nicht zu übersehen, wurde in [„3D Data Creation to Curation: Community Standards for 3D Data Preservation“](https://www.ala.org/acrl/sites/ala.org.acrl/files/content/publications/booksanddigitalresources/digital/9780838939147_3D_OA.pdf) [^4] eine hilfreiche und handliche Grafik entworfen, die in Abb.~\ref{XYZ} leicht angepasst und übersetzt wiedergegeben wird. 
+Die Frage der Langzeitverfügbarkeit rückt oft erst beim Abschluss eines Forschungsprojekts in den Fokus. Effizienter ist es jedoch, das Thema bereits frühzeitig bei einzelnen Schritten im Forschungsprozess zu berücksichtigen. Um diese Interventionspunkte und mögliche Fragestellungen nicht zu übersehen, wurde in [„3D Data Creation to Curation: Community Standards for 3D Data Preservation“](https://www.ala.org/acrl/sites/ala.org.acrl/files/content/publications/booksanddigitalresources/digital/9780838939147_3D_OA.pdf) [^4] eine hilfreiche und handliche Grafik entworfen, die in nachstehender Abbildung leicht angepasst und übersetzt wiedergegeben wird. 
+
+![Interventionspunkte und mögliche Fragestellungen zur Langzeitverfügbarkeit](.\Interventionspunkte_Abb.png "Interventionspunkte und mögliche Fragestellungen zur Langzeitverfügbarkeit")
 
 Für einen ersten Überblick zu geeigneten Dateiformaten für die Langzeitverfügbarkeit, kann die ["Interaktive Tafel gängiger Dateiformate"](https://www.lzv.nrw/dateiformate/) der Landesinitiative Langzeitverfügbarkeit lzv.nrw genutzt werden. Anhand der Dateiendung kann schnell überprüft werden, ob das vorliegende Dateiformat für die Langzeitverfügbarkeit geeignet ist.
 Weitergehende, detailliertere Erläuterungen zu den einzelnen Dateiformaten finden sich in zahlreichen Quellen[^5]. Aus diesen wurde eine kurze Übersicht über empfohlene, bedingt geeignete und nicht geeignete Dateiformate zusammengestellt.   

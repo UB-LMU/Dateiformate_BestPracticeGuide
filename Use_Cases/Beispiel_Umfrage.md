@@ -11,7 +11,7 @@ dataformat:
 Umfrage zur statistischen Erhebung 
 
 ## Use Case    
-Im Zuge einer sozialwissenschaftlichen Umfrage wurden auf der Basis eines standardisierten Fragebogens verschiedene Daten zur Lebensqualität einer definierten Alterskohorte in einem geografisch abgegrenztem Gebiet erhoben. Die Ergebnisse dieser Umfragen werden anschließend in einer Tabelle festgehalten.
+Im Zuge einer sozialwissenschaftlichen Umfrage wurden auf der Basis eines standardisierten Fragebogens verschiedene Daten zur Lebensqualität einer definierten Alterskohorte in einem geografisch abgegrenzten Gebiet erhoben. Die Ergebnisse dieser Umfragen werden anschließend in einer Tabelle festgehalten.
 
 ## Kontext    
 * Geistes- und Sozialwissenschaften  
@@ -26,9 +26,9 @@ Die Auswertung der Daten erfolgte hier mit gängigen, kommerziellen Tabellenkalk
 Für die Langzeitverfügbarkeit von Daten sollten grundsätzlich offene, nicht proprietäre Dateiformate gewählt werden. Bei Microsoft Office handelt es sich jedoch um eine proprietäre Software. Im vorliegenden Fall werden die Tabellen standardmäßig im Office-eigenen Format XLSX gespeichert. Das Tabellenformat CSV hingegen kann sowohl mit verschiedenen Tabellenkalkulationsprogrammen als auch mit jedem einfachen Texteditor gelesen und bearbeitet werden. 
 
 ## Konsequenzen und Kosten  
-Für die nähere Zukunft werden auch Daten im XLSX-Format weiterhin zugänglich und damit lesbar sein. Im Sinne der Langzeitverfügbarkeit kann jedoch für proprietäre nicht-offene Dateiformate (wozu auch das XLSX-Format gehört) eine dauerhafte Verfügbarkeit unter Umständen nicht ermöglicht werden. In diesen Fällen kann deshalb möglicherweise nur eine technische Erhaltung der Daten sichergestellt werden.
+Für die nähere Zukunft werden auch Daten im XLSX-Format weiterhin zugänglich und damit lesbar sein. Im Sinne der Langzeitverfügbarkeit kann jedoch für proprietäre, nicht-offene Dateiformate (wozu auch das XLSX-Format gehört) eine dauerhafte Verfügbarkeit unter Umständen nicht ermöglicht werden. In diesen Fällen kann deshalb möglicherweise nur eine technische Erhaltung der Daten sichergestellt werden.
 Für eine Speicherung im CSV-Format entstehen keine weiteren Kosten oder zusätzlicher Aufwand, da CSV-Dateien direkt aus Microsoft Excel heraus gespeichert werden können. 
-Alternativ können die Daten auch in beiden Formatarten archiviert werden. Bei sehr großen Tabellen könnten hierbei allerdings merkliche zusätzliche Kosten durch den erhöhten Speicherbedarf entstehen.   
+Alternativ können die Daten auch in beiden Formatarten archiviert werden.
 
 Nach der Speicherung als CSV und vor dem Import in ein Langzeitarchivierungssystem sollten die Dateien unbedingt auf Vollständigkeit und vor allem auf die Korrektheit der darin enthaltenen Daten überprüft werden, um möglicherweise auftretende Formatierungsfehler beheben zu können.
 

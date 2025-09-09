@@ -10,8 +10,10 @@ Authors:
 - Martin Spenger, Universitätsbibliothek der LMU
 - Alexandra Ullrich, Universitätsbibliothek Bayreuth
 
-  
+Current Version:
+Version 1.1 (published: 2025-09-09): addition of new example, minor corrections
 
+Previous Version:
 Version 1.0. (published: 2023-10-16): intial publication with guide and first set of use cases
 
 
